@@ -22,6 +22,9 @@
 
  - 求职意向：可观测性研发工程师
  - 教育经历：华侨大学，土木工程，2013.6-2017.9
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 摘要
+
+熟练掌握可观测相关技能和方法。拥有7年开发经验，且一直从事于监控可观测领域。热衷并善于解决各种疑难杂症，追求代码简洁严谨。拥有良好的沟通能力，能与其他团队高效合作。
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
@@ -86,8 +89,6 @@
 *对指标和日志采器端进行迁移，并促进了平台的云原生化*
 
 - 日志和指标采集器由二开版本的Telegraf和Filebeat切换为Prometheus和FluentBit，并使用Operator进行管理；同时推动sre团队将平台tag注入到注解中。
-
-****
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技术栈
 
