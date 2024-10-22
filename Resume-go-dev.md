@@ -21,7 +21,7 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 求职意向：可观测性开发工程师
+ - 求职意向：Golang开发工程师
  - 教育经历：华侨大学，2013.6-2017.9
  ## <img src="assets/tools-solid.svg" width="30px"> 技术栈
 
